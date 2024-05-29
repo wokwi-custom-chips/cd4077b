@@ -1,6 +1,6 @@
 # Quadruple Exclusive-NOR Gate Chip
 
-cd4070b custom chip for [Wokwi](https://wokwi.com/).
+CD4077B custom chip for [Wokwi](https://wokwi.com/).
 
 The actual source code for the chip lives in [src/main.c](src/main.c), and the pins are described in [chip.json](chip.json).
 
