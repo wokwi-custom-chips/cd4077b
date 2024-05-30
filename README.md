@@ -4,8 +4,8 @@ CD4077B custom chip for [Wokwi](https://wokwi.com/).
 
 The actual source code for the chip lives in [src/main.c](src/main.c), and the pins are described in [chip.json](chip.json).
 
-## Chip functionalities explained in DOCS 
-
+## DOCS 
+Chip functionalities and how to use it are explained in docs .
 [Go-to-docs](docs/README.md)
 
 ## Building
